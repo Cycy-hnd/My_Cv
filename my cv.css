@@ -1,0 +1,10 @@
+img{height:400px;
+width:400px;
+border-radius:50%;
+float:left;
+margin:10px;
+border:2px white;}
+body{padding:0 0 0 10px;
+background-color:beige;
+color:black;}
+hr{border-style:broken;}
